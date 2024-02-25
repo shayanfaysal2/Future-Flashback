@@ -25,7 +25,7 @@ How long can you run away? Challenge your friends and find out!
 4. Start your adrenaline-fueled journey through the neon-lit city and outrun the cyber soldier!
 
 ## Credits
-This game was developed by **Shayan Faisal** and **Naik Ur Rehman** as a submission for SOFTEC '23 Game Jam. Developed in Unity.
+This game was developed by **Shayan Faisal** and **Naik Ur Rehman** as a submission for SOFTEC '24 Game Jam. Developed in Unity.
 ### Assets Used
 * [Cyber Soldier](https://assetstore.unity.com/packages/3d/characters/robots/cyber-soldier-52064)
 * [Cyborg Character](https://assetstore.unity.com/packages/3d/characters/cyborg-character-112661)
